@@ -1,1 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | Ganeshji Live</title>
 
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f5f7fb;
+            color: #333;
+            line-height: 1.8;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 50px auto;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0,0,0,.08);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg,#ff6b00,#ff9800);
+            color: #fff;
+            padding: 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 38px;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            opacity: .95;
+            font-size: 16px;
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        h2 {
+            color: #ff6b00;
+            margin-top: 35px;
+            margin-bottom: 12px;
+            border-left: 5px solid #ff9800;
+            padding-left: 12px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        ul {
+            margin-left: 25px;
+            margin-bottom: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .contact {
+            background: #fff7ed;
+            border-left: 5px solid #ff9800;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 25px;
+        }
+
+        .footer {
+            text-align: center;
+            background: #fafafa;
+            padding: 25px;
+            color: #666;
+            font-size: 14px;
+            border-top: 1px solid #eee;
+        }
+
+        a {
+            color: #ff6b00;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @media(max-width:768px){
+            .container{
+                margin:20px;
+            }
+
+            .header{
+                padding:25px;
+            }
+
+            .header h1{
+                font-size:28px;
+            }
+
+            .content{
+                padding:25px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>Privacy Policy</h1>
+        <p><strong>Ganeshji Live Mobile Application</strong></p>
+        <p>Effective Date: July 10, 2026</p>
+    </div>
+
+    <div class="content">
+
+        <p>
+            Ganeshji Live ("we", "our", or "us") values your privacy.
+            This Privacy Policy explains how we collect, use, store,
+            and protect your information when you use the Ganeshji Live
+            mobile application.
+        </p>
+
+        <p>
+            By using this application, you agree to the collection and use
+            of information in accordance with this Privacy Policy.
+        </p>
+
+        <h2>1. Information We Collect</h2>
+
+        <h3>Personal Information</h3>
+
+        <ul>
+            <li>Full Name</li>
+            <li>Mobile Number</li>
+            <li>Email Address (if provided)</li>
+            <li>Profile Information</li>
+        </ul>
+
+        <h3>Ganesh Mandal Information</h3>
+
+        <ul>
+            <li>Ganesh Mandal Name</li>
+            <li>Organizer Information</li>
+            <li>Address</li>
+            <li>Live GPS Location</li>
+            <li>Photos of Ganesh Idol and Mandal</li>
+            <li>Description and Other Event Details</li>
+        </ul>
+
+        <h3>Device Information</h3>
+
+        <ul>
+            <li>Device Model</li>
+            <li>Operating System</li>
+            <li>Application Version</li>
+            <li>Device Identifier</li>
+            <li>Crash Logs</li>
+            <li>Diagnostic Information</li>
+        </ul>
+
+        <h3>Location Information</h3>
+
+        <p>
+            With your permission, the app collects your device location to:
+        </p>
+
+        <ul>
+            <li>Register Ganesh Mandal locations.</li>
+            <li>Display Mandals on the map.</li>
+            <li>Help devotees find nearby Ganesh Mandals.</li>
+            <li>Provide navigation to registered locations.</li>
+        </ul>
+
+        <h2>2. How We Use Your Information</h2>
+
+        <ul>
+            <li>Create and manage Ganesh Mandal registrations.</li>
+            <li>Display Mandal information to other users.</li>
+            <li>Show Ganesh Mandals on maps.</li>
+            <li>Help users discover nearby Ganesh Mandals.</li>
+            <li>Improve app performance and user experience.</li>
+            <li>Prevent fraud and misuse.</li>
+            <li>Respond to support requests.</li>
+            <li>Send important service notifications.</li>
+        </ul>
+
+        <h2>3. Photos and Media</h2>
+
+        <p>
+            Users may upload photographs of Ganesh Mandals and Ganesh Idols.
+            By uploading content, you confirm that:
+        </p>
+
+        <ul>
+            <li>You own or have permission to upload the content.</li>
+            <li>The content does not violate copyright or applicable laws.</li>
+            <li>You allow Ganeshji Live to display the uploaded content within the application.</li>
+        </ul>
+
+        <p>
+            We reserve the right to remove any inappropriate, offensive,
+            misleading, or unlawful content.
+        </p>
+
+        <h2>4. Location Data</h2>
+
+        <p>
+            Your location is used only to register Ganesh Mandals,
+            display them on maps, and help users locate nearby Mandals.
+            We do not continuously track your location in the background
+            unless required by the app and permitted by you.
+        </p>
+
+        <h2>5. Information Sharing</h2>
+
+        <p>
+            We do not sell your personal information.
+        </p>
+
+        <p>Your information may be shared only:</p>
+
+        <ul>
+            <li>With trusted service providers.</li>
+            <li>To comply with legal obligations.</li>
+            <li>To prevent fraud or abuse.</li>
+            <li>With your permission.</li>
+        </ul>
+
+        <p>
+            Public information such as Ganesh Mandal name,
+            photos, location, and event details may be visible
+            to other users of the application.
+        </p>
+
+        <h2>6. Third-Party Services</h2>
+
+        <p>The application may use:</p>
+
+        <ul>
+            <li>Google Maps</li>
+            <li>Google Play Services</li>
+            <li>Firebase Cloud Messaging (FCM)</li>
+            <li>Firebase Analytics</li>
+            <li>Firebase Crashlytics</li>
+        </ul>
+
+        <p>
+            These services have their own privacy policies and may
+            collect information according to their terms.
+        </p>
+
+        <h2>7. Data Security</h2>
+
+        <p>
+            We use reasonable security measures to protect your
+            information against unauthorized access, disclosure,
+            alteration, or destruction. However, no method of
+            electronic storage or transmission over the Internet
+            is completely secure.
+        </p>
+
+        <h2>8. Data Retention</h2>
+
+        <p>
+            We retain your information only as long as necessary
+            to provide our services, comply with legal obligations,
+            resolve disputes, and enforce our policies.
+        </p>
+
+        <p>
+            You may request deletion of your account or personal
+            information by contacting us.
+        </p>
+
+        <h2>9. Children's Privacy</h2>
+
+        <p>
+            Ganeshji Live is not intended for children under the age
+            of 13. We do not knowingly collect personal information
+            from children.
+        </p>
+
+        <h2>10. Your Rights</h2>
+
+        <ul>
+            <li>Access your personal information.</li>
+            <li>Correct inaccurate information.</li>
+            <li>Request deletion of your account.</li>
+            <li>Withdraw permissions such as location access.</li>
+            <li>Contact us regarding privacy concerns.</li>
+        </ul>
+
+        <h2>11. Changes to This Privacy Policy</h2>
+
+        <p>
+            We may update this Privacy Policy from time to time.
+            Any changes will be posted on this page with an updated
+            effective date.
+        </p>
+
+        <h2>12. Contact Us</h2>
+
+        <div class="contact">
+            <strong>Ganeshji Live Support</strong><br><br>
+
+            📧 Email:
+            <a href="mailto:support@alivecreate.in">support@alivecreate.in</a><br>
+
+            🌐 Website:
+            <a href="https://alivecreate.in">https://alivecreate.in</a>
+        </div>
+
+    </div>
+
+    <div class="footer">
+        © 2026 Ganeshji Live. All Rights Reserved.
+    </div>
+
+</div>
+
+</body>
+</html>
